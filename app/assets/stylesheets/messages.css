@@ -122,20 +122,20 @@
   display: flex;
 }
 
-.post-message {
+.form-input {
   width: 100%;
   display: flex;
   background-color: white;
 }
 
-.post-message input {
+.form-input input {
   padding-left: 10px;
   border: none;
   height: 50px;
   width: 100%;
 }
 
-.post-button {
+.form-submit {
   color: white;
   font-size: 16px;
   background-color: #38AEF0;
